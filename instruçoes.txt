@@ -1,2 +1,6 @@
+username mongo atlas - cainanluyles
+password mongo atlas - 89dTrQpaMRCM3LZM
+
 Criar módulo -> nest g module cats
-Criar módulo -> nest g controller cats
+Criar controller -> nest g controller cats
+Criar provider service -> nest g service cats
